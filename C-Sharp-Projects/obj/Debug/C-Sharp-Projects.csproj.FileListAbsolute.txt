@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\obj\Debug\C-Sharp-Projects.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\obj\Debug\C-Sharp-Projects.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\bin\Debug\C-Sharp-Projects.exe.config
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\bin\Debug\C-Sharp-Projects.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\bin\Debug\C-Sharp-Projects.pdb
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\obj\Debug\C-Sharp-Projects.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\C-Sharp-Projects\obj\Debug\C-Sharp-Projects.pdb
