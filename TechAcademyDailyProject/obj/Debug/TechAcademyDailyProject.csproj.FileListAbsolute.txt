@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\obj\Debug\TechAcademyDailyProject.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\obj\Debug\TechAcademyDailyProject.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\bin\Debug\TechAcademyDailyProject.exe.config
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\bin\Debug\TechAcademyDailyProject.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\bin\Debug\TechAcademyDailyProject.pdb
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\obj\Debug\TechAcademyDailyProject.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\TechAcademyDailyProject\obj\Debug\TechAcademyDailyProject.pdb
