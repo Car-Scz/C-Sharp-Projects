@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\bin\Debug\Car-Insurance-Approval-Project.exe.config
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\bin\Debug\Car-Insurance-Approval-Project.exe
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\bin\Debug\Car-Insurance-Approval-Project.pdb
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\obj\Debug\Car-Insurance-Approval-Project.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\obj\Debug\Car-Insurance-Approval-Project.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\obj\Debug\Car-Insurance-Approval-Project.exe
+C:\Users\carol\source\repos\Car-Insurance-Approval-Project\obj\Debug\Car-Insurance-Approval-Project.pdb
