@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\bin\Debug\ConsoleApp-BooleanComparisonsLoops.exe.config
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\bin\Debug\ConsoleApp-BooleanComparisonsLoops.exe
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\bin\Debug\ConsoleApp-BooleanComparisonsLoops.pdb
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\obj\Debug\ConsoleApp-BooleanComparisonsLoops.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\obj\Debug\ConsoleApp-BooleanComparisonsLoops.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\obj\Debug\ConsoleApp-BooleanComparisonsLoops.exe
+C:\Users\carol\source\repos\ConsoleApp-BooleanComparisonsLoops\obj\Debug\ConsoleApp-BooleanComparisonsLoops.pdb
