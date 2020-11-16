@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\bin\Debug\ConsoleApp-Playing with Strings.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\bin\Debug\ConsoleApp-Playing with Strings.exe
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\bin\Debug\ConsoleApp-Playing with Strings.pdb
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\obj\Debug\ConsoleApp-Playing with Strings.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\obj\Debug\ConsoleApp-Playing with Strings.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\obj\Debug\ConsoleApp-Playing with Strings.exe
+C:\Users\carol\source\repos\ConsoleApp-Playing with Strings\obj\Debug\ConsoleApp-Playing with Strings.pdb
