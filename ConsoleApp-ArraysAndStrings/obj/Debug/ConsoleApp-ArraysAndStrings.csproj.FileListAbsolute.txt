@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.exe.config
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.pdb
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.exe
+C:\Users\carol\source\repos\C-Sharp-Projects\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.pdb
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.exe.config
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.exe
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\bin\Debug\ConsoleApp-ArraysAndStrings.pdb
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.exe
+C:\Users\carol\source\repos\ConsoleApp-ArraysAndStrings\obj\Debug\ConsoleApp-ArraysAndStrings.pdb
