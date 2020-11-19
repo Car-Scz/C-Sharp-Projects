@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\bin\Debug\ConsoleApp-All-Together-Now.exe.config
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\bin\Debug\ConsoleApp-All-Together-Now.exe
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\bin\Debug\ConsoleApp-All-Together-Now.pdb
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\obj\Debug\ConsoleApp-All-Together-Now.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\obj\Debug\ConsoleApp-All-Together-Now.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\obj\Debug\ConsoleApp-All-Together-Now.exe
+C:\Users\carol\source\repos\ConsoleApp-All-Together-Now\obj\Debug\ConsoleApp-All-Together-Now.pdb
