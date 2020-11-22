@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.exe.config
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.exe
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.pdb
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.exe
+C:\Users\carol\source\repos\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.pdb

@@ -1,0 +1,23 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        //  list of numbers
+        int[] arr1 = new int[] { 10, 20, 30 };
+        
+        // Ask the user for a number to divide each number in the list by...
+        Console.WriteLine("Enter a non-zero number: ");
+        getInput = Console.ReadLine();
+        int num2 = Convert.ToInt32(getInput);
+
+        // Write a loop that takes each integer in the list, 
+        for (int ind1 = 0; ind1 < myNumbers.Length; ind1++)
+            
+            // divides it by the number the user entered, 
+            myNumbers[ind1] / getNbr;
+            // and displays the result to the screen
+            Console.WriteLine("The result is: " + result);
+    }
+}
