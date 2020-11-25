@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\bin\Debug\ConsoleApp-MathFunctions.exe.config
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\bin\Debug\ConsoleApp-MathFunctions.exe
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\bin\Debug\ConsoleApp-MathFunctions.pdb
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\obj\Debug\ConsoleApp-MathFunctions.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\obj\Debug\ConsoleApp-MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\obj\Debug\ConsoleApp-MathFunctions.exe
+C:\Users\carol\source\repos\ConsoleApp-MathFunctions\obj\Debug\ConsoleApp-MathFunctions.pdb
