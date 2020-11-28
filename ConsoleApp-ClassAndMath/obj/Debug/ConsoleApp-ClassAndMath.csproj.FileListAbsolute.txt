@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\bin\Debug\ConsoleApp-ClassAndMath.exe.config
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\bin\Debug\ConsoleApp-ClassAndMath.exe
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\bin\Debug\ConsoleApp-ClassAndMath.pdb
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\obj\Debug\ConsoleApp-ClassAndMath.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\obj\Debug\ConsoleApp-ClassAndMath.exe
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\obj\Debug\ConsoleApp-ClassAndMath.pdb
+C:\Users\carol\source\repos\ConsoleApp-ClassAndMath\obj\Debug\ConsoleApp-ClassAndMath.csprojAssemblyReference.cache
