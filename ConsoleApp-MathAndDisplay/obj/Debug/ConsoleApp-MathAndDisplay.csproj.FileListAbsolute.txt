@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\bin\Debug\ConsoleApp-MathAndDisplay.exe.config
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\bin\Debug\ConsoleApp-MathAndDisplay.exe
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\bin\Debug\ConsoleApp-MathAndDisplay.pdb
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\obj\Debug\ConsoleApp-MathAndDisplay.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\obj\Debug\ConsoleApp-MathAndDisplay.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\obj\Debug\ConsoleApp-MathAndDisplay.exe
+C:\Users\carol\source\repos\ConsoleApp-MathAndDisplay\obj\Debug\ConsoleApp-MathAndDisplay.pdb
