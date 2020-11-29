@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\bin\Debug\ConsoleApp-ClassAndOptionalParm.exe.config
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\bin\Debug\ConsoleApp-ClassAndOptionalParm.exe
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\bin\Debug\ConsoleApp-ClassAndOptionalParm.pdb
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\obj\Debug\ConsoleApp-ClassAndOptionalParm.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\obj\Debug\ConsoleApp-ClassAndOptionalParm.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\obj\Debug\ConsoleApp-ClassAndOptionalParm.exe
+C:\Users\carol\source\repos\ConsoleApp-ClassAndOptionalParm\obj\Debug\ConsoleApp-ClassAndOptionalParm.pdb
