@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\bin\Debug\ConsoleApp-PlayingWithMethods.exe.config
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\bin\Debug\ConsoleApp-PlayingWithMethods.exe
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\bin\Debug\ConsoleApp-PlayingWithMethods.pdb
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\obj\Debug\ConsoleApp-PlayingWithMethods.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\obj\Debug\ConsoleApp-PlayingWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\obj\Debug\ConsoleApp-PlayingWithMethods.exe
+C:\Users\carol\source\repos\ConsoleApp-PlayingWithMethods\obj\Debug\ConsoleApp-PlayingWithMethods.pdb
