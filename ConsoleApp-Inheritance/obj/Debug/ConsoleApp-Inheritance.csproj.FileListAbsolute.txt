@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\bin\Debug\ConsoleApp-Inheritance.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\bin\Debug\ConsoleApp-Inheritance.exe
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\bin\Debug\ConsoleApp-Inheritance.pdb
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\obj\Debug\ConsoleApp-Inheritance.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\obj\Debug\ConsoleApp-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\obj\Debug\ConsoleApp-Inheritance.exe
+C:\Users\carol\source\repos\ConsoleApp-Inheritance\obj\Debug\ConsoleApp-Inheritance.pdb
