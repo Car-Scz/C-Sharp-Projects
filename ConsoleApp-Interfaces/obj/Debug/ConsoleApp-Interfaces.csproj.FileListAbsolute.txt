@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\bin\Debug\ConsoleApp-Interfaces.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\bin\Debug\ConsoleApp-Interfaces.exe
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\bin\Debug\ConsoleApp-Interfaces.pdb
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\obj\Debug\ConsoleApp-Interfaces.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\obj\Debug\ConsoleApp-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\obj\Debug\ConsoleApp-Interfaces.exe
+C:\Users\carol\source\repos\ConsoleApp-Interfaces\obj\Debug\ConsoleApp-Interfaces.pdb
