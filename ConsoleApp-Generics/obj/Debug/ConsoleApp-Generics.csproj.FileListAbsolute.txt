@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Generics\bin\Debug\ConsoleApp-Generics.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Generics\bin\Debug\ConsoleApp-Generics.exe
+C:\Users\carol\source\repos\ConsoleApp-Generics\bin\Debug\ConsoleApp-Generics.pdb
+C:\Users\carol\source\repos\ConsoleApp-Generics\obj\Debug\ConsoleApp-Generics.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Generics\obj\Debug\ConsoleApp-Generics.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Generics\obj\Debug\ConsoleApp-Generics.exe
+C:\Users\carol\source\repos\ConsoleApp-Generics\obj\Debug\ConsoleApp-Generics.pdb
