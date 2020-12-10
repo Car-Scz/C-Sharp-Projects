@@ -11,8 +11,5 @@ namespace ConsoleApp_Generics
         // properties of this abstract class
         public string firstName { get; set; }
         public string lastName { get; set; }
-
-        // void method with no parameters which prints the person's name
-        public abstract void SayName();
     }
 }

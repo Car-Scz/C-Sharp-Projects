@@ -11,32 +11,22 @@ namespace ConsoleApp_Generics
         static void Main()
         {
             // Instantiate an Employee object
-            Employee employee = new Employee();
+            Employee<string> employee = new Employee<string>();
+            // created the new list of strings
+            employee.Things = new List<string>() { "string1", "string2", "string3", "\n" };
+            
+            foreach (string item in employee.Things)
+            {
+                Console.WriteLine(item);
+            }
+            Employee<int> employee_int = new Employee<int>();
+            employee_int.Things = new List<int>() { 100, 200, 300 };
 
-            employee.Print<int>(100);
-            employee.Print(200); // type infer from the specified value
-            employee.Print<string>("Hello");
-            employee.Print("World!"); // type infer from the specified value
+            foreach (int item in employee_int.Things)
+            {
+                Console.WriteLine(item);
+            }
 
-            // Initialize the first Employee object
-            Employee employee1 = new Employee();
-            employee1.Id = 1;
-            employee1.firstName = "Sample";
-            employee1.lastName = "Student";
-            // Instantiate a second Employee object
-            Employee employee2 = new Employee();
-            // Initialize the second Employee object
-            employee2.Id = 2;
-            employee2.firstName = "Another";
-            employee2.lastName = "Student";
-
-            Console.WriteLine("I am here.");
-            Console.WriteLine(employee1 == employee2);
-            Console.WriteLine(employee1 != employee2);
-
-            // Calling the superclass method on the Employee object.
-            //employee1.SayName();
-            //employee1.Quit();
             Console.ReadLine();
         }
     }

@@ -7,52 +7,10 @@ using System.Threading.Tasks;
 namespace ConsoleApp_Generics
 {
     // inherits from Person class
-    class Employee : Person, IQuittable
+    class Employee<T> : Person
     {
         // properties of this class
         public int Id { get; set; }
-
-        public void Employee<T>(T things)
-        {
-            // constructor
-            List<T>() = Things;
-        }
-        public void Print<T>(T things)
-        {
-            Console.WriteLine(things);
-        }
-
-        // Implement the SayName() method inside of the Employee class.
-        public override void SayName()
-        {
-            Console.WriteLine("\nName: " + firstName + " " + lastName);
-        }
-        public void Quit()
-        {
-            // The body of Quit() is provided here
-            Console.WriteLine("I am in the Quit method of the class Employee.  So \"I QUIT!\" ");
-        }
-        public static bool operator ==(Employee emp1, Employee emp2)
-        {
-            if (emp1.Id != emp2.Id)
-            {
-                return false;
-            }
-            else
-            {
-                return true;
-            }
-        }
-        public static bool operator !=(Employee emp1, Employee emp2)
-        {
-            if (emp1.Id == emp2.Id)
-            {
-                return false;
-            }
-            else
-            {
-                return true;
-            }
-        }
+        public List<T> Things { get; set; }
     }
 }
