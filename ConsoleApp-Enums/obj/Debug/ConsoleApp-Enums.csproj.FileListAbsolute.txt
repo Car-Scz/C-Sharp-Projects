@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Enums\bin\Debug\ConsoleApp-Enums.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Enums\bin\Debug\ConsoleApp-Enums.exe
+C:\Users\carol\source\repos\ConsoleApp-Enums\bin\Debug\ConsoleApp-Enums.pdb
+C:\Users\carol\source\repos\ConsoleApp-Enums\obj\Debug\ConsoleApp-Enums.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Enums\obj\Debug\ConsoleApp-Enums.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Enums\obj\Debug\ConsoleApp-Enums.exe
+C:\Users\carol\source\repos\ConsoleApp-Enums\obj\Debug\ConsoleApp-Enums.pdb
