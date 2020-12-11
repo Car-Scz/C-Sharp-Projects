@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-Structs\bin\Debug\ConsoleApp-Structs.exe.config
+C:\Users\carol\source\repos\ConsoleApp-Structs\bin\Debug\ConsoleApp-Structs.exe
+C:\Users\carol\source\repos\ConsoleApp-Structs\bin\Debug\ConsoleApp-Structs.pdb
+C:\Users\carol\source\repos\ConsoleApp-Structs\obj\Debug\ConsoleApp-Structs.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-Structs\obj\Debug\ConsoleApp-Structs.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-Structs\obj\Debug\ConsoleApp-Structs.exe
+C:\Users\carol\source\repos\ConsoleApp-Structs\obj\Debug\ConsoleApp-Structs.pdb
