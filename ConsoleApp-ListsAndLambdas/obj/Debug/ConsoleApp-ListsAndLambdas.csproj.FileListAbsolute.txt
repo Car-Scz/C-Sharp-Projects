@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\bin\Debug\ConsoleApp-ListsAndLambdas.exe.config
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\bin\Debug\ConsoleApp-ListsAndLambdas.exe
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\bin\Debug\ConsoleApp-ListsAndLambdas.pdb
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\obj\Debug\ConsoleApp-ListsAndLambdas.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\obj\Debug\ConsoleApp-ListsAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\obj\Debug\ConsoleApp-ListsAndLambdas.exe
+C:\Users\carol\source\repos\ConsoleApp-ListsAndLambdas\obj\Debug\ConsoleApp-ListsAndLambdas.pdb
