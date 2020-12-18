@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-DateTime\bin\Debug\ConsoleApp-DateTime.exe.config
+C:\Users\carol\source\repos\ConsoleApp-DateTime\bin\Debug\ConsoleApp-DateTime.exe
+C:\Users\carol\source\repos\ConsoleApp-DateTime\bin\Debug\ConsoleApp-DateTime.pdb
+C:\Users\carol\source\repos\ConsoleApp-DateTime\obj\Debug\ConsoleApp-DateTime.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-DateTime\obj\Debug\ConsoleApp-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-DateTime\obj\Debug\ConsoleApp-DateTime.exe
+C:\Users\carol\source\repos\ConsoleApp-DateTime\obj\Debug\ConsoleApp-DateTime.pdb
