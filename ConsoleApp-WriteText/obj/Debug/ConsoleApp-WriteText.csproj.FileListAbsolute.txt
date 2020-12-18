@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-WriteText\bin\Debug\ConsoleApp-WriteText.exe.config
+C:\Users\carol\source\repos\ConsoleApp-WriteText\bin\Debug\ConsoleApp-WriteText.exe
+C:\Users\carol\source\repos\ConsoleApp-WriteText\bin\Debug\ConsoleApp-WriteText.pdb
+C:\Users\carol\source\repos\ConsoleApp-WriteText\obj\Debug\ConsoleApp-WriteText.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-WriteText\obj\Debug\ConsoleApp-WriteText.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-WriteText\obj\Debug\ConsoleApp-WriteText.exe
+C:\Users\carol\source\repos\ConsoleApp-WriteText\obj\Debug\ConsoleApp-WriteText.pdb
