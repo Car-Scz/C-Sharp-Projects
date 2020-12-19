@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\bin\Debug\ConsoleApp-ConstAndChaining.exe.config
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\bin\Debug\ConsoleApp-ConstAndChaining.exe
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\bin\Debug\ConsoleApp-ConstAndChaining.pdb
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\obj\Debug\ConsoleApp-ConstAndChaining.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\obj\Debug\ConsoleApp-ConstAndChaining.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\obj\Debug\ConsoleApp-ConstAndChaining.exe
+C:\Users\carol\source\repos\ConsoleApp-ConstAndChaining\obj\Debug\ConsoleApp-ConstAndChaining.pdb
