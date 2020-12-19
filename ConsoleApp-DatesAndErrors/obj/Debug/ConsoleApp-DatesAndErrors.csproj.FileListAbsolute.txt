@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\bin\Debug\ConsoleApp-DatesAndErrors.exe.config
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\bin\Debug\ConsoleApp-DatesAndErrors.exe
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\bin\Debug\ConsoleApp-DatesAndErrors.pdb
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\obj\Debug\ConsoleApp-DatesAndErrors.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\obj\Debug\ConsoleApp-DatesAndErrors.exe
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\obj\Debug\ConsoleApp-DatesAndErrors.pdb
+C:\Users\carol\source\repos\ConsoleApp-DatesAndErrors\obj\Debug\ConsoleApp-DatesAndErrors.csprojAssemblyReference.cache
