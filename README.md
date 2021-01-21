@@ -43,39 +43,39 @@ Projects:
 
 Console apps:
 
-Basics: 
-	ConsoleApp-EscSequence
+Basics :  
+	ConsoleApp-EscSequence; 
 	ConsoleApp-WriteText
 
-DateTime Handling
-	ConsoleApp-DatesAndErrors
+DateTime Handling :  
+	ConsoleApp-DatesAndErrors; 
 	ConsoleApp-DateTime
 
-Lists and Enumerations
-	ConsoleApp-Enums
-	ConsoleApp-ListsAndElements
-	ConsoleApp-ListsAndLambdas
+Lists and Enumerations : 
+  ConsoleApp-Enums; 
+	ConsoleApp-ListsAndElements; 
+	ConsoleApp-ListsAndLambdas; 
 
-Math and Operators
-	ConsoleApp-ClassAndMath
-	ConsoleApp-MathAndDisplay
-	ConsoleApp-MathFunctions
-	ConsoleApp-MathOperations
+Math and Operators :  
+  ConsoleApp-ClassAndMath; 
+	ConsoleApp-MathAndDisplay; 
+	ConsoleApp-MathFunctions; 
+	ConsoleApp-MathOperations; 
 
-Methods
-	ConsoleApp-Abstract
-	ConsoleApp-ClassAndOptionalParm
-	ConsoleApp-ConstAndChaining
-	ConsoleApp-Generics
-	ConsoleApp-Inheritance
-	ConsoleApp-Interfaces
-	ConsoleApp-OperatorOverloading
-	ConsoleApp-PlayingWithMethods
+Methods :  
+  ConsoleApp-Abstract; 
+	ConsoleApp-ClassAndOptionalParm; 
+	ConsoleApp-ConstAndChaining; 
+	ConsoleApp-Generics; 
+	ConsoleApp-Inheritance; 
+	ConsoleApp-Interfaces; 
+	ConsoleApp-OperatorOverloading; 
+	ConsoleApp-PlayingWithMethods; 
 
-Program Flow
-	ConsoleApp-BooleansComparisonsLoops
-	ConsoleApp-ExceptionHandling
+Program Flow :  
+  ConsoleApp-BooleansComparisonsLoops; 
+	ConsoleApp-ExceptionHandling; 
 
-Strings
-	ConsoleApp-ArraysAndStrings
+Strings :  
+  ConsoleApp-ArraysAndStrings; 
 	ConsoleApp-PlayingWithStrings
