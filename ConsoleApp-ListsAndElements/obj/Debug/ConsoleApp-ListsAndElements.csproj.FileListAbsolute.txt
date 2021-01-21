@@ -1,0 +1,6 @@
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\bin\Debug\ConsoleApp-All-Together-Now.exe.config
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\bin\Debug\ConsoleApp-All-Together-Now.exe
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\bin\Debug\ConsoleApp-All-Together-Now.pdb
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\obj\Debug\ConsoleApp-ListsAndElements.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\obj\Debug\ConsoleApp-All-Together-Now.exe
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-ListsAndElements\obj\Debug\ConsoleApp-All-Together-Now.pdb

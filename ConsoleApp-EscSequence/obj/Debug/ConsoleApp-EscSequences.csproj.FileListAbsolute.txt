@@ -1,0 +1,6 @@
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\bin\Debug\C-Sharp-Projects.exe.config
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\bin\Debug\C-Sharp-Projects.exe
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\bin\Debug\C-Sharp-Projects.pdb
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\obj\Debug\ConsoleApp-EscSequences.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\obj\Debug\C-Sharp-Projects.exe
+C:\Users\carol\Documents\GitHub\C-Sharp-Projects\ConsoleApp-EscapeSeq\obj\Debug\C-Sharp-Projects.pdb
