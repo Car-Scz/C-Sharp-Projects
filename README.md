@@ -43,13 +43,13 @@ Projects:
 
 •	Contoso University Tutorial Project
 
-	Contoso University s a very comprehensive Project that was undertaken to expand 
+	Contoso University is a very comprehensive Project that was undertaken to expand 
 	my knowledge of C#, Entity frameworks, and the Code First approach. After the models
-	were created, the basic CRUD views were created.  Functionality was added to the Index 
-	view including searching, sorting, and pagination. Connection Resiliency and concurrency
-	was then eplored and migrations were enabled. Additional models were added and reading
-	and updating related data was implemented. Using async and stored procedures was explored.
-	Finally, inheritance was added to the data model.
+	were created, the basic CRUD views were then created.  Functionality was added to the 
+	Index view including searching, sorting, and pagination. Connection Resiliency and 
+	concurrency was then eplored and migrations were enabled. Additional models were added with 
+	The asssociated reading and updating of related data was implemented. Using async and 
+	stored procedures was explored. Finally, inheritance was added to the data model.
 
 	
 
