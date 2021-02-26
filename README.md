@@ -41,6 +41,18 @@ Projects:
 	classes and a class context object.  Once the database and tables have been 
 	generated, one student is added.
 
+•	Contoso University Tutorial Project
+
+	Contoso University s a very comprehensive Project that was undertaken to expand 
+	my knowledge of C#, Entity frameworks, and the Code First approach. After the models
+	were created, the basic CRUD views were created.  Functionality was added to the Index 
+	view including searching, sorting, and pagination. Connection Resiliency and concurrency
+	was then eplored and migrations were enabled. Additional models were added and reading
+	and updating related data was implemented. Using async and stored procedures was explored.
+	Finally, inheritance was added to the data model.
+
+	
+
 Console apps:
 
 Basics :  
